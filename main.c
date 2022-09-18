@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void assign(int* x, 
-	          int* y)
+	    int* y)
 {
 	*x = 5;
 	*y = 3;
